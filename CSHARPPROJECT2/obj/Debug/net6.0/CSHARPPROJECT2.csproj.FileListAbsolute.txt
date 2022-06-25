@@ -1,0 +1,15 @@
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\bin\Debug\net6.0\CSHARPPROJECT2.exe
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\bin\Debug\net6.0\CSHARPPROJECT2.deps.json
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\bin\Debug\net6.0\CSHARPPROJECT2.runtimeconfig.json
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\bin\Debug\net6.0\CSHARPPROJECT2.dll
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\bin\Debug\net6.0\ref\CSHARPPROJECT2.dll
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\bin\Debug\net6.0\CSHARPPROJECT2.pdb
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\CSHARPPROJECT2.csproj.AssemblyReference.cache
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\CSHARPPROJECT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\CSHARPPROJECT2.AssemblyInfoInputs.cache
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\CSHARPPROJECT2.AssemblyInfo.cs
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\CSHARPPROJECT2.csproj.CoreCompileInputs.cache
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\CSHARPPROJECT2.dll
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\ref\CSHARPPROJECT2.dll
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\CSHARPPROJECT2.pdb
+C:\Users\natan\Source\Repos\CSHARPPROJECT2\CSHARPPROJECT2\obj\Debug\net6.0\CSHARPPROJECT2.genruntimeconfig.cache
