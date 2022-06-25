@@ -11,11 +11,51 @@ class Program {
             Program.Main(null);
         }
         double op1, op2;
+        try
+        {
+            Console.WriteLine("\nPlease Input operand One:");
+            op1 = Double.Parse(Console.ReadLine());
+            Console.WriteLine("\nPlease Input operand Two:");
+            op2 = Double.Parse(Console.ReadLine());
+        }
+        catch (FormatException)
+        {
+            Console.Error.WriteLine("Invalid number given!");
+            return;
+        }
+        finally { 
+        }
+        try
+        {
+            switch (op)
+            {
+                case '+':
+                    Console.WriteLine("The result is " + (op2 + op1));
+                    break;
+                case '/':
+                    
+                    Console.WriteLine("The result is " + (op1 / op2));
+                    break;
+                case '*':
+                    Console.WriteLine("The result is " + (op2 * op1));
+                    break;
+                case '-':
+                    Console.WriteLine("The result is " + (op1 - op2));
+                    break;
 
-        Console.WriteLine("\nPlease Input operand One:");
-        Console.WriteLine("\nPlease Input operand Two:");
 
-        switch (op) { }
+
+            }
+        }
+        catch (DivideByZeroException e)
+        {
+            Console.WriteLine("Cannot divide by zero");
+
+        }
+        finally
+        {
+            Console.WriteLine("GoodBye");
+        }
 
     }
 
